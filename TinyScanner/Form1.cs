@@ -89,8 +89,6 @@ namespace TinyScanner
                     return;
                 }
             }
-
-            // Lexical Error Check
             string cleanedCode = Regex.Replace(code, pattern, "").Trim();
 
             if (!string.IsNullOrEmpty(cleanedCode))
