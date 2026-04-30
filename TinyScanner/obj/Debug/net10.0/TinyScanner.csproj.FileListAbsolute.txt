@@ -1,0 +1,14 @@
+C:\Users\hasan\source\repos\TinyScanner\TinyScanner\bin\Debug\net10.0\TinyScanner.exe
+C:\Users\hasan\source\repos\TinyScanner\TinyScanner\bin\Debug\net10.0\TinyScanner.deps.json
+C:\Users\hasan\source\repos\TinyScanner\TinyScanner\bin\Debug\net10.0\TinyScanner.runtimeconfig.json
+C:\Users\hasan\source\repos\TinyScanner\TinyScanner\bin\Debug\net10.0\TinyScanner.dll
+C:\Users\hasan\source\repos\TinyScanner\TinyScanner\bin\Debug\net10.0\TinyScanner.pdb
+C:\Users\hasan\source\repos\TinyScanner\TinyScanner\obj\Debug\net10.0\TinyScanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\source\repos\TinyScanner\TinyScanner\obj\Debug\net10.0\TinyScanner.AssemblyInfoInputs.cache
+C:\Users\hasan\source\repos\TinyScanner\TinyScanner\obj\Debug\net10.0\TinyScanner.AssemblyInfo.cs
+C:\Users\hasan\source\repos\TinyScanner\TinyScanner\obj\Debug\net10.0\TinyScanner.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\TinyScanner\TinyScanner\obj\Debug\net10.0\TinyScanner.dll
+C:\Users\hasan\source\repos\TinyScanner\TinyScanner\obj\Debug\net10.0\refint\TinyScanner.dll
+C:\Users\hasan\source\repos\TinyScanner\TinyScanner\obj\Debug\net10.0\TinyScanner.pdb
+C:\Users\hasan\source\repos\TinyScanner\TinyScanner\obj\Debug\net10.0\TinyScanner.genruntimeconfig.cache
+C:\Users\hasan\source\repos\TinyScanner\TinyScanner\obj\Debug\net10.0\ref\TinyScanner.dll
